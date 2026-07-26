@@ -1,8 +1,8 @@
-![Image Alt Text](./banner.png)
+![Image Alt Text](./Gemini_Generated_Image_nbc54knbc54knbc5.png)
 
 <div align="center">
 
-<img src="./banner.svg" alt="Banner" width="100%" />
+<img src="./banner.svg" alt="" width="100%" />
 
 # Hi 👋 I'm Anwar Ul Haq
 
@@ -11,6 +11,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;Next.js+Developer;MERN+Stack+Developer;Blockchain+Developer;Always+Learning+Something+New" />
 
 </div>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Anwar0904&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -100,28 +106,10 @@ const anwar = {
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Anwar0904&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
-/>
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwar0904&layout=compact&theme=github_dark&hide_border=true"
-/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Anwar0904&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -136,18 +124,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwar0904&la
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=Anwar0904&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4"
-/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -155,16 +131,6 @@ src="https://github-profile-trophy.vercel.app/?username=Anwar0904&theme=algolia&
 <img
 src="https://raw.githubusercontent.com/Anwar0904/Anwar0904/output/github-contribution-grid-snake-dark.svg"
 />
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Anwar0904&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
 </p>
 
 ---
