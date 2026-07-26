@@ -51,7 +51,7 @@ const anwar = {
 
 ## Frontend
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
 
@@ -59,7 +59,7 @@ const anwar = {
 
 ## Backend
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php" />
 
@@ -67,7 +67,7 @@ const anwar = {
 
 ## Blockchain
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=solidity" />
 
@@ -79,7 +79,7 @@ const anwar = {
 
 ## CMS
 
-<p>
+<p align="center"> 
 
 <img src="https://skillicons.dev/icons?i=wordpress" />
 
@@ -87,7 +87,7 @@ const anwar = {
 
 ## Tools
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma" />
 
@@ -96,6 +96,7 @@ const anwar = {
 ---
 
 # 🚀 Featured Projects
+<div align="center">
 
 | Project | Tech |
 |----------|------|
@@ -103,6 +104,7 @@ const anwar = {
 | 🏢 ADM CMS | Next.js • Node.js • MongoDB |
 | 💰 Expense Tracker | MERN Stack |
 | 🔗 Solidity Smart Contracts | Solidity • Hardhat |
+</div>
 
 ---
 
