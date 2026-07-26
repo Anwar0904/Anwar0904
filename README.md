@@ -1,16 +1,56 @@
-## Hi there 👋
+![Image Alt Text](./banner.png)
 
-<!--
-**Anwar0904/Anwar0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Anwar Ul Haq
 
-Here are some ideas to get you started:
+🚀 Full Stack Developer
+⚡ Next.js Specialist
+🔗 Blockchain Developer
+💻 MERN Stack Engineer
+🌍 Open Source Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building scalable web applications with modern technologies.
+
+
+
+Frontend
+---------
+React
+Next.js
+TypeScript
+Tailwind
+Redux
+
+Backend
+---------
+Node.js
+Express
+MongoDB
+MySQL
+
+Blockchain
+---------
+Solidity
+Hardhat
+Ethers.js
+
+Tools
+---------
+Git
+Linux
+Docker
+Postman
+VS Code
+Figma
+
+
+GitHub Stats
+
+Contribution Streak
+
+Languages
+
+Activity Graph
+
+Profile Summary
+
+Achievements
