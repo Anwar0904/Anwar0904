@@ -39,6 +39,7 @@ const anwar = {
         "System Design",
         "Web3",
         "DevOps"
+        "AI/ML"
     ],
 
     motto: "Learn • Build • Improve • Repeat"
