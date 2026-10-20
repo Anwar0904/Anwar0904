@@ -1,3 +1,4 @@
+![Anwar Ul Haq — Full-Stack AI Engineer](./Anwar_banner.png)
  <div align="center">
 
 # Anwar Ul Haq
